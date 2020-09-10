@@ -8,7 +8,7 @@
 export function returnTrue(): boolean;
 export function returnFalse(): boolean;
 
-declare module 'xxxEngine' {
+declare module 'canvasEngine' {
     export function returnTrue(): boolean;
     export function returnFalse(): boolean;
 }
